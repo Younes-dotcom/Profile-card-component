@@ -7,7 +7,7 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 ![](./images/solution.png)
 
 ### Links
-- Live Site URL: (https://younes-dotcom.github.io/Profile-card-component/)
+- [Live Site URL](https://younes-dotcom.github.io/Profile-card-component/)
 
 ### Built with
 
@@ -15,4 +15,4 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 - Flexbox
 
 ## Author
-- Frontend Mentor - (https://www.frontendmentor.io/profile/Younes-dotcom)https://www.frontendmentor.io/profile/Younes-dotcom)
+- [Frontend Mentor](https://www.frontendmentor.io/profile/Younes-dotcom)
