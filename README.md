@@ -15,4 +15,4 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 - Flexbox
 
 ## Author
-- Frontend Mentor - (https://www.frontendmentor.io/profile/yourusername](https://www.frontendmentor.io/profile/Younes-dotcom)https://www.frontendmentor.io/profile/Younes-dotcom)
+- Frontend Mentor - (https://www.frontendmentor.io/profile/Younes-dotcom)https://www.frontendmentor.io/profile/Younes-dotcom)
